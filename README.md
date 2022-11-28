@@ -79,7 +79,7 @@ Please see images below for examples of:
 - descriptive `alt` attributes
 ![alt text](assets/images/alt-attributes.png)
 
-- proper HTML and CSS commentary:
+- proper commentary:
 ![alt text](assets/images/comments-html.png)
 
 and many more.
