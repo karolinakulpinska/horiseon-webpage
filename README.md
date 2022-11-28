@@ -46,8 +46,10 @@ Please follow the steps below to access code and install the project:
 
 1. Access https://github.com/karolinakulpinska/horiseon-webpage
 2. Above the list of files, click on green 'Code' button. 
+![alt text](assets/images/code-button.png)
 3. Copy the URL for the repository.
 - To clone the repository using HTTPS, under "HTTPS", click two files button.
+![alt text](assets/images/copy-to-clipboard.png)
 - To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click SSH, then click two files button.
 - To clone a repository using GitHub CLI, click GitHub CLI, then click two files button.
 4. Open Terminal.
