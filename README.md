@@ -32,5 +32,40 @@ Link to deployed application: https://karolinakulpinska.github.io/horiseon-webpa
 
 ![alt text](assets/images/karolinakulpinska.github.io_horiseon-webpage_.jpg)
 
-## 
+## User Story
 
+```
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+```
+
+## Installation
+
+Please follow the steps below to access code and install the project:
+
+1. Access https://github.com/karolinakulpinska/horiseon-webpage
+2. Above the list of files, click on green 'Code' button. 
+3. Copy the URL for the repository.
+- To clone the repository using HTTPS, under "HTTPS", click two files button.
+- To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click SSH, then click two files button.
+- To clone a repository using GitHub CLI, click GitHub CLI, then click two files button.
+4. Open Terminal.
+5. Change the current working directory to the location where you want the cloned directory.
+6. Type `git clone`, and then paste the URL you copied earlier.
+
+```
+$ git clone https://github.com/karolinakulpinska/horiseon-webpage.git
+
+```
+7. Press Enter to create your local clone.
+
+```
+$ git clone https://github.com/karolinakulpinska/horiseon-webpage.git
+> Cloning into `Horiseon-webpage`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
+
+```
