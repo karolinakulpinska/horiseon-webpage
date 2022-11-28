@@ -26,4 +26,7 @@ Link to deployed application: https://karolinakulpinska.github.io/horiseon-webpa
 
 ## Screenshot
 
+![alt text](assets/images/karolinakulpinska.github.io_horiseon-webpage_.jpg)
+
+## 
 
