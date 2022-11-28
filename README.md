@@ -30,7 +30,7 @@ Link to deployed application: https://karolinakulpinska.github.io/horiseon-webpa
 
 ## Screenshot of the refactored website
 
-![alt text](assets/images/karolinakulpinska.github.io_horiseon-webpage_.jpg)
+![alt text](assets/images/horiseon-webpage-screenshot.jpg)
 
 ## User Story
 
@@ -82,7 +82,7 @@ Please see images below for examples of:
 - proper HTML and CSS commentary:
 ![alt text](assets/images/comments-html.png)
 
-![alt text](assets/images/comments-css.png)
+and many more.
 
 ## Licence
 
