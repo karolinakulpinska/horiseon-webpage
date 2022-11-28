@@ -24,11 +24,11 @@ I've also made sure that the application:
 
 Link to deployed application: https://karolinakulpinska.github.io/horiseon-webpage/
 
-## Mockup 
+## Mockup provided by the Company
 
 ![alt text](assets/images/01-html-css-git-challenge-demo.png)
 
-## Screenshot
+## Screenshot of the refactored website
 
 ![alt text](assets/images/karolinakulpinska.github.io_horiseon-webpage_.jpg)
 
